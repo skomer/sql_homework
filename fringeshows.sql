@@ -1,4 +1,4 @@
-DROP TABLE "shows";
+DROP TABLE "shows" CASCADE;
 DROP TABLE "times";
 DROP TABLE "users";
 DROP TABLE "shows_users";
